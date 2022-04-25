@@ -1,0 +1,18 @@
+.noteContainer {
+    border: 1px solid grey;
+    min-height: 15rem;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(315deg, #f1dfd1 0%, #f6f0ea 74%);
+  }
+
+.functionality {
+    width: 70vh;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+  
+  button {
+    margin: 5px;
+  }
