@@ -8,9 +8,16 @@
   }
 
 .functionality {
-    width: 70vh;
+    width: 100vh;
     border: 1px solid black;
     border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.wellog{
+  display: flex;
 }
   
   button {
